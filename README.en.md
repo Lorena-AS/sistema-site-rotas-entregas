@@ -59,4 +59,8 @@ The tests use a temporary database and mocked APIs (no real calls):
 python -m unittest testes_rodada1 testes_rodada2 testes_rodada3 testes_marca
 ```
 
+## Rights
+
+Code published for portfolio and viewing purposes only. All rights reserved.
+
 *Note: the code, file names and interface are in Portuguese.*

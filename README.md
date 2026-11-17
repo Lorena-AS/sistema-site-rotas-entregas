@@ -57,3 +57,7 @@ Os testes usam banco temporário e APIs simuladas (nenhuma chamada real):
 ```bash
 python -m unittest testes_rodada1 testes_rodada2 testes_rodada3 testes_marca
 ```
+
+## Direitos
+
+Código publicado apenas para fins de portfólio e visualização. Todos os direitos reservados.
