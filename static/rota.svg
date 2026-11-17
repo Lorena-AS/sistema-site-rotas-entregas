@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="500" viewBox="-800 0 1320 500">
+<g stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1">
+<line x1="0" y1="60" x2="520" y2="60"></line><line x1="0" y1="140" x2="520" y2="140"></line><line x1="0" y1="220" x2="520" y2="220"></line><line x1="0" y1="300" x2="520" y2="300"></line><line x1="0" y1="380" x2="520" y2="380"></line>
+<line x1="70" y1="0" x2="70" y2="440"></line><line x1="170" y1="0" x2="170" y2="440"></line><line x1="270" y1="0" x2="270" y2="440"></line><line x1="370" y1="0" x2="370" y2="440"></line><line x1="470" y1="0" x2="470" y2="440"></line>
+</g>
+<path d="M -780 440 C -680 440, -620 400, -540 400 S -400 470, -300 470 S -150 410, -40 410 S 120 400, 180 330 S 260 270, 330 260 S 380 180, 420 130 S 455 70, 470 60" fill="none" stroke="#2F8BFF" stroke-opacity="0.25" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M -780 440 C -680 440, -620 400, -540 400 S -400 470, -300 470 S -150 410, -40 410 S 120 400, 180 330 S 260 270, 330 260 S 380 180, 420 130 S 455 70, 470 60" fill="none" stroke="#3B9BFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+<circle cx="-780" cy="440" r="14" fill="#0F2A4A" stroke="#7DD3A0" stroke-width="5"></circle>
+<g font-family="Inter, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
+<rect x="-560" y="384" width="40" height="32" rx="8" fill="#FFFFFF"></rect><text x="-540" y="406" fill="#1D4ED8">1</text>
+<rect x="-320" y="454" width="40" height="32" rx="8" fill="#FFFFFF"></rect><text x="-300" y="476" fill="#1D4ED8">2</text>
+<rect x="-60" y="394" width="40" height="32" rx="8" fill="#FFFFFF"></rect><text x="-40" y="416" fill="#1D4ED8">3</text>
+<rect x="160" y="314" width="40" height="32" rx="8" fill="#FFFFFF"></rect><text x="180" y="336" fill="#1D4ED8">4</text>
+<rect x="400" y="114" width="40" height="32" rx="8" fill="#FFFFFF"></rect><text x="420" y="136" fill="#1D4ED8">5</text>
+</g>
+<circle cx="470" cy="60" r="16" fill="#0F2A4A" stroke="#9FE0F5" stroke-width="5"></circle>
+<text x="230" y="232" font-family="Inter, sans-serif" font-size="15" fill="#C7D2E1">Rota escolhida</text>
+</svg>

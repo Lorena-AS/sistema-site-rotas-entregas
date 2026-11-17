@@ -1,0 +1,32 @@
+# Segredos e dados reais (nunca vão para o GitHub)
+.streamlit/secrets.toml
+.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+backup_*
+marca/
+*.pdf
+
+# Ambientes virtuais e arquivos gerados
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Configurações do editor (têm caminhos do computador)
+.idea/
+.vscode/
+
+# Executáveis e certificados
+*.exe
+*.crt
+*.key
+*.pem
+
+# Arquivos de trabalho
+rascunho_*
+resumo_*
+diagnostico_*
